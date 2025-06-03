@@ -1,16 +1,15 @@
-# nesnetani
+# flutternesne
 
-A new Flutter project.
+Flutter ile nesne tanıma projesi.
 
-## Getting Started
+## Başlangıç
 
-This project is a starting point for a Flutter application.
+Bu proje Flutter kullanarak nesne tanıma uygulaması geliştirmek için oluşturuldu.
 
-A few resources to get you started if this is your first Flutter project:
+Başlangıç için birkaç kaynak:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Daha fazla bilgi için Flutter'ın
+[resmi dokümantasyonunu](https://docs.flutter.dev/) inceleyebilirsiniz.
