@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357698710928",
+    "project_id": "nesne28-5e6f0",
+    "storage_bucket": "nesne28-5e6f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357698710928:android:0cc17e6857ee89453c1715",
+        "android_client_info": {
+          "package_name": "com.example.nesnetani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArmExoQChC8sKT6XayIqg_15mpFhHr56k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
